@@ -1,4 +1,4 @@
-📌 Atividade Avaliativa
+📌 Atividade Avaliativa  -  Clara Victoria Melandes 323127889
 
 Este projeto foi desenvolvido utilizando Linux como sistema operacional.
 
